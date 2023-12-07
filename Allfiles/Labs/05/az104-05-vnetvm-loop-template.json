@@ -12,25 +12,25 @@
       "location1": {
           "type": "string",
           "metadata": {
-              "description": "First Azure Region" 
+              "description": "Francecentral" 
           }
       },
       "location2": {
           "type": "string",
           "metadata": {
-              "description": "Second Azure Region" 
+              "description": "Westeurope" 
           }
       },
       "adminUsername": {
         "type": "string",
         "metadata": {
-          "description": "Admin username"
+          "description": "lylla"
         }
       },
       "adminPassword": {
         "type": "securestring",
         "metadata": {
-          "description": "Admin password"
+          "description": "Jevis@bugey01!"
         }
       }
     },
