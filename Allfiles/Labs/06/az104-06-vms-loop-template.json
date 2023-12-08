@@ -26,13 +26,13 @@
         "adminUsername": {
             "type": "string",
             "metadata": {
-                "description": "Admin username"
+                "description": "lylla"
             }
         },
         "adminPassword": {
             "type": "securestring",
             "metadata": {
-                "description": "Admin password"
+                "description": "Jevis@bugey01!"
             }
         }
     },
